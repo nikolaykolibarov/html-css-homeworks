@@ -1,0 +1,25 @@
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build tools
+node_modules/
+bower_components/
+
+# Compiled CSS
+*.css.map
+*.sass-cache/
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
